@@ -10,19 +10,19 @@ Most of my work revolves around taking messy, real-world data and turning it int
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Selected Work  
 
-🔹 **Customer Signal Intelligence System (CSIS)**
-[View Project](https://github.com/IAmHarshit0/CSIS-V1)
-Built a system to analyze user sentiment across multiple apps and extract patterns that can guide product decisions
+🔹 **Customer Signal Intelligence System (CSIS)**  
+[View Project](https://github.com/your-link)  
+Built a system to analyze user sentiment across multiple apps and extract patterns that can guide product decisions  
 
-🔹 **Heart Disease Prediction System**
-[View Project](https://github.com/IAmHarshit0/HeartDiseasePredictor)
-Designed a recall-focused ML model (~80%) where missing a positive case is more costly than a false alarm
+🔹 **Heart Disease Prediction System**  
+[View Project](https://github.com/your-link)  
+Designed a recall-focused ML model (~80%) where missing a positive case is more costly than a false alarm  
 
-🔹 **Sales Forecasting System**
-[View Project](https://github.com/IAmHarshit0/SalesForecasting)
-Created a full pipeline using LightGBM to predict demand and support inventory planning
+🔹 **Sales Forecasting System**  
+[View Project](https://github.com/your-link)  
+Created a full pipeline using LightGBM to predict demand and support inventory planning  
 
 ---
 
