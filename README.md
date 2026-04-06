@@ -1,4 +1,4 @@
-# Hi, I'm Harshit
+# Hi, I'm Harshit 👋
 
 I build AI systems that are meant to be used — not just trained and forgotten in notebooks.
 
